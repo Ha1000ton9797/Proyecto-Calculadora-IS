@@ -1,4 +1,5 @@
 Algoritmo ProyectoCalculadora
+
 	Definir Opcion, Realizar_Otra_Transaccion Como Entero
 	Definir PrimerNumero, SegundoNumero Como Real
 	Definir TamaMatriz, A, B Como Entero
